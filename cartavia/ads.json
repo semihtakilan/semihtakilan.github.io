@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "freePlaySeconds": 1200,
+  "minPlaySecondsBetween": 360,
+  "minGamesBetween": 1,
+  "minDailyAttemptsBetween": 3,
+  "dailyRevivePercent": 50,
+  "returningDays": 7,
+  "returningQuietSeconds": 600,
+  "quietAfterCelebration": true,
+  "dailyJokerStartsPerDay": 2,
+  "interstitials": true
+}
