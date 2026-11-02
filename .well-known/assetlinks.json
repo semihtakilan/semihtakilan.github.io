@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.semihtakilan.cartavia",
+      "sha256_cert_fingerprints": [
+        "37:8B:86:50:A0:AB:0E:2B:E6:8B:2D:7E:91:CB:80:9C:78:A0:22:52:B6:EA:15:A4:37:8A:8E:AF:3F:FF:72:90"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.semihtakilan.cartavia.test",
+      "sha256_cert_fingerprints": [
+        "A7:88:DA:DC:B5:22:6B:CC:83:B4:4B:78:92:2B:C1:05:47:E6:B4:36:AB:18:E3:B4:E0:3E:8C:E9:AC:DA:4C:87"
+      ]
+    }
+  }
+]

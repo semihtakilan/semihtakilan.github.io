@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["PWBWP63TJG.com.semihtakilandev.cartavia"],
+        "components": [
+          { "/": "/cartavia/duel/*", "comment": "Cartavia Duel invitation" }
+        ]
+      }
+    ]
+  }
+}
