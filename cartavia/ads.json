@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "freePlaySeconds": 1200,
-  "minPlaySecondsBetween": 360,
+  "freePlaySeconds": 720,
+  "minPlaySecondsBetween": 240,
   "minGamesBetween": 1,
   "minDailyAttemptsBetween": 3,
   "dailyRevivePercent": 50,
